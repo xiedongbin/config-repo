@@ -14,4 +14,4 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
   instance:
     prefer-ip-address: true
-env: dev9
+env: dev10
